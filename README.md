@@ -2,6 +2,7 @@
 - data after preprocessing link https://www.kaggle.com/datasets/basantsingh1000/img-data-branded
 <img width="521" alt="Screenshot 2023-08-14 at 2 59 42 AM" src="https://github.com/Tonyrj/Data-Science/assets/128667568/b41e76e9-ef7b-4cae-ab40-e2d905ce9993">
 <img width="572" alt="Screenshot 2023-08-14 at 2 59 51 AM" src="https://github.com/Tonyrj/Data-Science/assets/128667568/5f989a0c-3721-45e8-a65c-ad55c2f4b036">
+
 <img width="426" alt="Screenshot 2023-08-14 at 3 00 02 AM" src="https://github.com/Tonyrj/Data-Science/assets/128667568/4e3bc062-b7fc-4348-a01b-76088c909763">
 
 
