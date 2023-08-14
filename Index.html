@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image classifier</title>
+
+    <link rel="stylesheet" type="text/css" href="homestyle.css">
+
+    <link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+</head>
+<body>
+
+	<!--Navigation bar-->
+	<header>
+		<a href="#" class="logo"><img src="img/logo1.png"></a>
+		<div class ="bx bx-menu" id="menu-icon"></div>
+
+		<ul class="navbar">
+			<li><a href="#home">Home</a></li>
+			<li><a href="#detect">Detective</a></li>
+			<li><a href="#about_us">About Us</a></li>
+			<li><a href="#Contact_us">Contact</a></li>
+		</ul>
+	</header>
+
+	<!--home-->
+	<section class="home" id="home">
+		<div class="home-text">
+			<span>Welcome to</span>
+			<h1>Detective</h1>
+			<h2>Let's find out <br> Real and Fake</h2>
+			<a href="#" class="btn" >Detect</a>
+		</div>
+		<div class="home-img">
+			<img src="img/home2.png" alt="">
+		</div>
+	</section>
+
+    <!--Image Detection-->
+	<section class="detect" id="detect">
+		<div class="heading">
+			<span>Investigate Now</span>
+			<h1>Let's Prove it!</h1>
+		</div>
+      <div class="container">
+  <div class="box">
+    <div class="img-area">
+      <input type="file" id="uploadInput" style="display: none;">
+      <label for="uploadInput" class="upload-button">
+        <i class='bx bx-upload icon'></i>
+        <h3>Upload Image</h3>
+        <p>Image must be less than <span>2MB</span></p>
+      </label>
+      <img id="uploadedImage" src="" alt="Uploaded Image" style="display: none;">
+      <button id="closeButton" class="close-button" style="display: none;">Close</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</div>
+        
+	</section>
+
+	<!--About us-->
+	<section>
+		<section class="about_us" id="about_us">
+			<div class="about-head">
+				<span>About Us</span>
+			</div>
+	</section>
+
+
+</body>
+</htm1>
